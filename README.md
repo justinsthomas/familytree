@@ -2,7 +2,7 @@ jQuery Family Tree
 
 ==================
 
-Have you ever thought chaining parent() upon parent() was just a bit confusing or verbose? At your service is a service is a set of simple jQuery functions that map the element selection process to something a bit more familiar: a family tree.
+Have you ever thought chaining parent() upon parent() was just a bit confusing or verbose? At your service is a set of simple jQuery functions that map the element selection process to something a bit more familiar: a family tree.
 
 It's as simple as including jquery.familytree.js and calling a function within your script as follows:
 
